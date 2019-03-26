@@ -1,0 +1,6 @@
+framework module LYGTOnePass {
+  umbrella header "LYGTOnePass-umbrella.h"
+
+  export *
+  module * { export * }
+}

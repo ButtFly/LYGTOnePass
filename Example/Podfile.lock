@@ -1,0 +1,16 @@
+PODS:
+  - LYGTOnePass (0.1.0)
+
+DEPENDENCIES:
+  - LYGTOnePass (from `../`)
+
+EXTERNAL SOURCES:
+  LYGTOnePass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYGTOnePass: e2eb3993c6b1edf7eec7afb6e4b85eaf437e1e26
+
+PODFILE CHECKSUM: b232083e68aa195518a521982da9fd7a2c9ad8b1
+
+COCOAPODS: 1.7.0.beta.2

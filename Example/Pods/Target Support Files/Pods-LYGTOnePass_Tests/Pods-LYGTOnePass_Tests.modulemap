@@ -1,0 +1,6 @@
+framework module Pods_LYGTOnePass_Tests {
+  umbrella header "Pods-LYGTOnePass_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
